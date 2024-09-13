@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimaallikvee&label=Profile%20views&color=0e75b6&style=flat" alt="dimaallikvee" /> </p>
 
-- 🌱 I’m currently learning **Python, CSS, JavaScript**
+- 🌱 I’m currently learning **Python, CSS, JavaScript, Java**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/nptv23dimaallikvee/avaleht](https://sites.google.com/view/nptv23dimaallikvee/avaleht)
 
